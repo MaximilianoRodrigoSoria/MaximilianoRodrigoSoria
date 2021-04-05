@@ -1,4 +1,4 @@
-### Hola!!! ¿Cómo está? Mi nombre Maximiliano Soria 👋
+### Hola!!! ¿Cómo están? Mi nombre Maximiliano Soria 👋
 
 <!--
 **MaximilianoRodrigoSoria/MaximilianoRodrigoSoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,13 +6,15 @@
 ![alt text](https://i.postimg.cc/PxXFMZpq/code.png)
 
 
-Here are some ideas to get you started:
+_//TODO: Completarlo correctamente_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aquí hay algunas ideas para comenzar:
+
+- 🔭 Actualmente estoy trabajando en WebFlux.
+- 🌱 Actualmente estoy aprendiendo programación reactiva.
+- 👯 Busco colaborar en dependencias reactivas.
+- 🤔 Estoy buscando ayuda para comer pizza.
+- 💬 Pregúntame sobre lo que sea
+- 📫 Cómo contactarme: maximilianorodirgosoria@gmail.com
+- 😄 Pronombres: El Soria
+- ⚡ Dato curioso: Me gustan cocinar tortas.
