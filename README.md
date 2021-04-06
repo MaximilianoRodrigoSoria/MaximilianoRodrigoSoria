@@ -1,12 +1,12 @@
-### Hola!!! ¿Cómo están? Mi nombre Maximiliano Soria 👋
+### Hola 👋, Mi nombre es Maxi!!!
+#### Bienvenidos a mi perfil de GitHub
 
-<!--
-**MaximilianoRodrigoSoria/MaximilianoRodrigoSoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![alt text](https://i.postimg.cc/PxXFMZpq/code.png)
+![Bienvenidos a mi perfil de Gitgub](https://i.postimg.cc/PxXFMZpq/code.png)
 
 
-_//TODO: Completarlo correctamente_
+Habilidades: Java / Spring Boot / Reactor / Js / Angular
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaximilianoRodrigoSoria)](https://github.com/anuraghazra/github-readme-stats)
 
 Aquí hay algunas ideas para comenzar:
 
