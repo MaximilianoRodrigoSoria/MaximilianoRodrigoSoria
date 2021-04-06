@@ -6,7 +6,8 @@
 
 Habilidades: Java / Spring Boot / Reactor / Js / Angular
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaximilianoRodrigoSoria)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Maximiliano Rodrigo Soria's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximilianorodrigosoria&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 Aquí hay algunas ideas para comenzar:
 
