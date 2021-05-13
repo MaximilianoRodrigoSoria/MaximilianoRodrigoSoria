@@ -7,7 +7,9 @@
 Habilidades: Java / Spring Boot / Reactor / Js / Angular
 
 
-[![Maximiliano Rodrigo Soria's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximilianorodrigosoria&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
+![gif](images/gif/60424-web-hosting.gif)
+
 
 Aquí hay algunas ideas para comenzar:
 
