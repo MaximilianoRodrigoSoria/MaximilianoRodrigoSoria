@@ -1,10 +1,11 @@
-### Hola 👋, Mi nombre es Maxi!!!
-#### Bienvenidos a mi perfil de GitHub
+
 
 ![Bienvenidos a mi perfil de Gitgub](https://i.postimg.cc/PxXFMZpq/code.png)
 
 
-Habilidades: Java / Spring Boot / Reactor / Js / Angular
+### Hola 👋, Mi nombre es Maxi!!!
+#### Bienvenidos a mi perfil de GitHub
+
 
 
 
