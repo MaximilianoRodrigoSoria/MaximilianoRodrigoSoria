@@ -1,8 +1,5 @@
 
 
-![Bienvenidos a mi perfil de Gitgub](https://i.postimg.cc/PxXFMZpq/code.png)
-
-
 ### Hola 👋, Mi nombre es Maxi!!!
 #### Bienvenidos a mi perfil de GitHub
 
