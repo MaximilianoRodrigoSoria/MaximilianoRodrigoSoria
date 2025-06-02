@@ -42,7 +42,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="rigth">
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,34 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianoRodrigoSoria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRodrigoSoria&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180em">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoRodrigoSoria&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaximilianoRodrigoSoria&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximilianoRodrigoSoria&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-</div>
-
----
 
 ## 🤝 Conecta conmigo
 
@@ -117,12 +89,3 @@
 
 </div>
 
----
-
-## 🎯 Proyectos Destacados
-
-<div align="center">
-  
-<a href="https://github.com/MaximilianoRodrigoSoria/tu-proyecto-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaximilianoRodrigoSoria&repo=tu-proyecto-1&theme=tokyonight" />
-</a>
