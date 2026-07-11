@@ -1,205 +1,130 @@
-<!-- =========================================================
-     BANNER (conserva tu primer GIF)
-========================================================= -->
+<!-- ==================================================================== -->
+<!--  Perfil de GitHub · Maximiliano Rodrigo Soria                         -->
+<!--  Repo destino: MaximilianoRodrigoSoria/MaximilianoRodrigoSoria        -->
+<!-- ==================================================================== -->
+
+<a href="https://www.linkedin.com/in/soriamaximiliano/">
+  <img src="https://github.com/MaximilianoRodrigoSoria/MaximilianoRodrigoSoria/raw/main/images/gif/banner.gif" alt="Maximiliano Rodrigo Soria" width="100%" />
+</a>
+
+<h1 align="center">Maximiliano Rodrigo Soria</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
-    <img width="100%" height="100%" src="images/gif/banner.gif" alt="Linkedin">
-  </a>
+  <b>Arquitecto de Software</b> · Backend Java &amp; Spring Boot · GenAI aplicada<br/>
+  Diseño sistemas escalables, observables y mantenibles. Traduzco decisiones técnicas en valor de negocio.
 </p>
 
-<!-- =========================================================
-     HERO
-========================================================= -->
-<div align="center" style="margin-top: -10px;">
-  <h1>¡Hola! Soy Maxi</h1>
-  <p style="max-width: 800px;">
-    Arquitecto/Backend Java · Spring Boot · Clean Architecture · APIs limpias y observables.
-    Me gusta automatizar, escribir código simple y documentar lo suficiente para que todo fluya.
-  </p>
-
-  <!-- Badges rápidos -->
-  <a href="https://komarev.com/ghpvc/?username=MaximilianoRodrigoSoria">
-    <img src="https://komarev.com/ghpvc/?username=MaximilianoRodrigoSoria&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil">
+<p align="center">
+  <a href="https://www.linkedin.com/in/soriamaximiliano/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/github/followers/MaximilianoRodrigoSoria?label=Followers&style=social" alt="GitHub followers">
-</div>
-
-<br/>
-
-<!-- =========================================================
-     QUICK LINKS
-========================================================= -->
-<div align="center">
-  <a href="#-stack-principal" style="text-decoration:none;">
-    <img alt="Stack" src="https://img.shields.io/badge/Stack-Backend%20Java-2F80ED?logo=coffeescript&logoColor=white">
+  <a href="mailto:maximilianorodrigosoria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#-proyectos--highlights" style="text-decoration:none;">
-    <img alt="Proyectos" src="https://img.shields.io/badge/Highlights-Proyectos-6DB33F?logo=vercel&logoColor=white">
+  <a href="https://twitter.com/Maximil28285608">
+    <img src="https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="#-contacto" style="text-decoration:none;">
-    <img alt="Contacto" src="https://img.shields.io/badge/Contacto-Hablemos-111111?logo=github&logoColor=white">
-  </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=MaximilianoRodrigoSoria&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas al perfil"/>
+</p>
 
 ---
 
-<!-- =========================================================
-     QUIÉN SOY (card con HTML inline)
-========================================================= -->
-<div align="center" style="
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 12px;
-  max-width: 900px;
-  margin: 0 auto;
-">
-  <div style="
-    padding: 18px 22px;
-    border: 1px solid #eaecef;
-    border-radius: 14px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
-  ">
-    <h3 style="margin-top: 0;">Sobre mí</h3>
-    <ul style="text-align: left;">
-      <li>Trabajo con <b>Java</b> y <b>Spring Boot</b>, APIs REST, specs claras y buenas prácticas.</li>
-      <li>Me enfoco en <b>limpieza</b> (arquitectura, excepciones, logging, pruebas) y <b>automatización</b>.</li>
-      <li>Contenido técnico y documentación: me gusta que el “<i>por qué</i>” quede tan claro como el “<i>cómo</i>”.</li>
-    </ul>
-  </div>
-</div>
+## Sobre mí
+
+Trabajo como **Arquitecto de Software** con foco en **backend Java + Spring Boot**, en entornos de **fintech y sistemas de alta escala**. Me dedico a diseñar arquitecturas de microservicios, definir contratos de API claros y garantizar que lo que se construye sea **resiliente, observable y fácil de evolucionar**.
+
+- **Arquitectura:** microservicios, Clean/Hexagonal Architecture, event-driven (Kafka), API governance y decisiones documentadas (ADRs).
+- **Calidad:** manejo de excepciones consistente, logging estructurado, testing (JUnit, Testcontainers) y pipelines con chequeos tempranos.
+- **GenAI aplicada:** exploro sistemas multi-agente, RAG, observabilidad de LLMs (LLMOps) y el protocolo MCP.
+- **Filosofía:** código simple, automatización de lo repetitivo y documentar el *por qué* tanto como el *cómo*.
 
 ---
 
-<!-- =========================================================
-     STACK PRINCIPAL
-========================================================= -->
-## 🧰 Stack principal
+## Stack principal
 
-<!-- Lenguajes -->
-<details open>
-  <summary><b>Lenguajes</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</details>
+**Lenguajes**
 
-<!-- Frameworks -->
-<details open>
-  <summary><b>Frameworks & Librerías</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-</details>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Datos -->
-<details open>
-  <summary><b>Bases de datos</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</details>
+**Frameworks &amp; librerías**
 
-<!-- DevOps -->
-<details open>
-  <summary><b>Cloud & DevOps</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-</details>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<!-- Herramientas -->
-<details open>
-  <summary><b>Herramientas</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</details>
+**Datos &amp; mensajería**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Cloud &amp; DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-<!-- =========================================================
-     PROYECTOS DESTACADOS (estilo "cards")
-========================================================= -->
-## 🚀 Proyectos / Highlights
+## Proyectos destacados
 
-<div align="center" style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 12px;
-  max-width: 1000px;
-">
-  <div style="padding:16px;border:1px solid #eaecef;border-radius:14px;">
-    <h4 style="margin:6px 0;">APIs reactivas con WebFlux</h4>
-    <p style="margin:8px 0;">Diseño de endpoints backpressure-friendly, validación con <code>@Valid</code> y manejo de errores uniforme.</p>
-    <ul style="text-align:left;margin:0 0 0 16px;">
-      <li>Errores estructurados</li>
-      <li>Testing con WebTestClient</li>
-      <li>Observabilidad (logs/metrics)</li>
-    </ul>
-  </div>
+### Arquitectura &amp; Backend (Java / Spring)
 
-  <div style="padding:16px;border:1px solid #eaecef;border-radius:14px;">
-    <h4 style="margin:6px 0;">Clean Architecture + Sonar</h4>
-    <p style="margin:8px 0;">Módulos nítidos, reglas de calidad y cobertura. Pipelines con chequeos tempranos.</p>
-    <ul style="text-align:left;margin:0 0 0 16px;">
-      <li>Exceptions de dominio</li>
-      <li>Logging estructurado</li>
-      <li>Docs automáticas (OpenAPI)</li>
-    </ul>
-  </div>
+| Proyecto | Descripción |
+|----------|-------------|
+| [**patterns-lab**](https://github.com/MaximilianoRodrigoSoria/patterns-lab) | *Software Architecture Lab* — 53 mini-módulos en Spring Boot 3 / Java 21 (Docker) sobre patrones de arquitectura, resiliencia, integración, persistencia, observabilidad, seguridad, AOP y paradigmas. |
+| [**spring-boot-batch**](https://github.com/MaximilianoRodrigoSoria/spring-boot-batch) | Procesos de Spring Batch: lectura/validación de datos, idempotencia y reprocesos controlados. |
+| [**spring-batch-dashboard**](https://github.com/MaximilianoRodrigoSoria/spring-batch-dashboard) | Dashboard (TypeScript) para monitorear jobs de Spring Batch: estado, trazas y ejecución. |
+| [**e-commerce**](https://github.com/MaximilianoRodrigoSoria/e-commerce) | API de e-commerce con arquitectura hexagonal: separación de capas y límites de dominio claros. |
+| [**spaceship-api**](https://github.com/MaximilianoRodrigoSoria/spaceship-api) | API REST de referencia con un conjunto de endpoints bien definidos sobre el dominio *Spaceship*. |
+| [**candidate-api**](https://github.com/MaximilianoRodrigoSoria/candidate-api) | API de challenge técnico en Java: buen ejemplo de diseño de endpoints y buenas prácticas. |
 
-  <div style="padding:16px;border:1px solid #eaecef;border-radius:14px;">
-    <h4 style="margin:6px 0;">Batch & Datalake</h4>
-    <p style="margin:8px 0;">Procesos Spring Batch, validaciones CSV/JSON y publicación de eventos.</p>
-    <ul style="text-align:left;margin:0 0 0 16px;">
-      <li>Idempotencia</li>
-      <li>Reprocesos controlados</li>
-      <li>Monitoreo y trazas</li>
-    </ul>
-  </div>
-</div>
+### GenAI / IA aplicada (Python)
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [**genai-cloud-architecture**](https://github.com/MaximilianoRodrigoSoria/genai-cloud-architecture) | Arquitectura GenAI cloud escalable y multi-tenant en AWS: ADRs, diagrama y gateway de referencia (auth por tenant, rate limiting, caching, ruteo de modelos) + Terraform. |
+| [**multi-agent-orchestration**](https://github.com/MaximilianoRodrigoSoria/multi-agent-orchestration) | Sistema multi-agente con orquestación **LangGraph** y un gate *human-in-the-loop*, aplicado a triage de tickets. |
+| [**rag-pipeline-eval**](https://github.com/MaximilianoRodrigoSoria/rag-pipeline-eval) | Pipeline RAG sobre corpus propio con evaluación automatizada (**RAGAS**): faithfulness, relevancia y context precision/recall. |
+| [**llmops-observability**](https://github.com/MaximilianoRodrigoSoria/llmops-observability) | Capa de observabilidad para LLMOps: costo, latencia y errores por request (Prometheus + structlog + Docker + CI). |
+| [**mcp-server-demo**](https://github.com/MaximilianoRodrigoSoria/mcp-server-demo) | Servidor **MCP** (Model Context Protocol) con FastMCP: tools de SQLite, API de clima (Open-Meteo) y un resource de esquema. |
+| [**log-analysis-agent**](https://github.com/MaximilianoRodrigoSoria/log-analysis-agent) | Agente en Python para análisis automatizado de logs. |
 
 ---
 
-<!-- =========================================================
-     MANIFIESTO DE CÓDIGO (toque descontracturado)
-========================================================= -->
-## 🧪 Manifiesto de Código
+## GitHub en números
 
-> Código simple > código “listo para TED Talk”.  
-> Logs útiles > logs ruidosos.  
-> Tests que rompan pronto > bugs que rompan tarde.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRodrigoSoria&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=768390&bg_color=00000000" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRodrigoSoria&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=768390&bg_color=00000000" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoRodrigoSoria&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&background=00000000&stroke=768390&sideNums=768390&sideLabels=768390&dates=768390&currStreakNum=768390" alt="Racha de commits" />
+</p>
 
 ---
 
-<!-- =========================================================
-     CONTACTO
-========================================================= -->
-## 📬 Contacto
+## Manifiesto de código
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximiliano%20R.%20Soria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soriamaximilianorodrigo/)
-[![GitHub](https://img.shields.io/badge/GitHub-MaximilianoRodrigoSoria-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximilianoRodrigoSoria)
-<!-- Reemplazá el email si querés hacerlo público -->
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+> Código simple &gt; código "listo para TED Talk".<br/>
+> Logs útiles &gt; logs ruidosos.<br/>
+> Tests que rompan pronto &gt; bugs que rompan tarde.<br/>
+> El *por qué* documentado &gt; el *cómo* olvidado.
 
-</div>
-
-<!-- =========================================================
-     FOOTER
-========================================================= -->
-<br/>
-<div align="center">
-  <sub>“El código limpio siempre parece escrito por alguien que se preocupa.”</sub>
-</div>
+<p align="center"><i>"El código limpio siempre parece escrito por alguien que se preocupa."</i></p>
