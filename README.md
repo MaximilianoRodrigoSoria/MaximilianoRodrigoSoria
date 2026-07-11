@@ -107,19 +107,6 @@ Trabajo como **Arquitecto de Software** con foco en **backend Java + Spring Boot
 
 ---
 
-## GitHub en números
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaximilianoRodrigoSoria&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=768390&bg_color=00000000" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoRodrigoSoria&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=768390&bg_color=00000000" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoRodrigoSoria&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&background=00000000&stroke=768390&sideNums=768390&sideLabels=768390&dates=768390&currStreakNum=768390" alt="Racha de commits" />
-</p>
-
----
-
 ## Manifiesto de código
 
 > Código simple &gt; código "listo para TED Talk".<br/>
